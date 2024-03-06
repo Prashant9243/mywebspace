@@ -1,0 +1,5 @@
+[26-Feb-2024 09:48:44 America/New_York] PHP Deprecated:  Required parameter $date follows optional parameter $id in /home/mywetfod/public_html/application/helpers/bnb_helper.php on line 232
+[26-Feb-2024 09:48:44 America/New_York] PHP Deprecated:  Required parameter $main follows optional parameter $id in /home/mywetfod/public_html/application/helpers/bnb_helper.php on line 926
+[02-Mar-2024 00:32:50 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/mywetfod/public_html/application/controllers/user/Manage_purchases.php on line 272
+[03-Mar-2024 06:29:42 America/New_York] PHP Deprecated:  Required parameter $date follows optional parameter $id in /home/mywetfod/public_html/application/helpers/bnb_helper.php on line 232
+[03-Mar-2024 06:29:42 America/New_York] PHP Deprecated:  Required parameter $main follows optional parameter $id in /home/mywetfod/public_html/application/helpers/bnb_helper.php on line 926
